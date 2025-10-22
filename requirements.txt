@@ -1,9 +1,0 @@
-streamlit
-python-dotenv
-Pillow
-ultralytics
-langchain
-langchain-openai
-langchain-community
-faiss-cpu
-openai
