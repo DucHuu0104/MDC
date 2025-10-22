@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+Pillow
+# ⚙️ YOLO + torch
+ultralytics==8.3.10
+torch
+torchvision
+# ⚙️ Buộc dùng bản headless của OpenCV
+opencv-python-headless==4.10.0.84
+--extra-index-url https://download.pytorch.org/whl/cpu
+# ⚙️ LangChain stack
+langchain==0.1.16
+langchain-openai
+langchain-community
+faiss-cpu
+openai
